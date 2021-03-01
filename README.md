@@ -2,14 +2,22 @@
 My Suckless setup
 
 
-###################################
-
-Installing
+## Installing
 
 ```
 cd {dwm}
-make install
+sudo make install
 cd ..
 cd {slstatus}
-make install
+sudo make install
 ```
+
+## Pre-reqs
+
+Arch Based Systems (Manjaro, Arch, ArchLabs etc)
+
+```sudo pacman -S base-devel```
+
+Debian Based Systems (Debian and Ubuntu based distros)
+
+```sudo apt-get install build-essentials xorg-dev```
