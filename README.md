@@ -21,3 +21,8 @@ Arch Based Systems (Manjaro, Arch, ArchLabs etc)
 Debian Based Systems (Debian and Ubuntu based distros)
 
 ```sudo apt-get install build-essentials xorg-dev```
+
+## Shortcut Keys
+
+`Alt + p` - dmenu
+`Alt + Shift + Return/Enter` - Terminal
