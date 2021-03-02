@@ -25,4 +25,5 @@ Debian Based Systems (Debian and Ubuntu based distros)
 ## Shortcut Keys
 
 `Alt + p` - dmenu
+
 `Alt + Shift + Return/Enter` - Terminal
