@@ -14,6 +14,8 @@ sudo make install
 
 ## Pre-reqs
 
+Fonts : Code New Roman, Font Awesome
+
 Arch Based Systems (Manjaro, Arch, ArchLabs etc)
 
 ```sudo pacman -S base-devel```
