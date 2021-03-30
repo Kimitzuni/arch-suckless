@@ -83,8 +83,8 @@ static const char *chromium[] = { "firefox", NULL }; // Beyond cursed
 static Key keys[] = {
 	/* modifier                     key        function        argument */
 //	{ MODKEY,                       XK_p,      spawn,          {.v = dmenucmd } }, // Uncomment this line if you use dmenu
-    { MODKEY,                       XK_p,      spawn,          {.v = menu } },
-    { WinKey,                       XK_Tab,    spawn,          {.v = menu } },
+    { MODKEY,                       XK_p,      spawn,          {.v = dmenucmd } },
+    { WinKey,                       XK_Tab,    spawn,          {.v = dmenucmd } },
 	{ MODKEY|ShiftMask,             XK_Return, spawn,          {.v = termcmd } },
 	{ MODKEY|ShiftMask,	            XK_t,	   spawn,	       {.v = filemgr} },
 	{ MODKEY|ShiftMask,		        XK_w,	   spawn,          {.v = chromium } },
