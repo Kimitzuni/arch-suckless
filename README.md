@@ -13,6 +13,8 @@ sudo make install
 ```
 
 ## Pre-reqs
+https://aur.archlinux.org/packages/libxft-bgra/ - Needed for Emoji Support
+
 ```
 
 Fonts : Code New Roman, Font Awesome
